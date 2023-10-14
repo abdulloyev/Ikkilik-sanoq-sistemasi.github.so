@@ -42,6 +42,8 @@ export default function Home() {
           >
             abdulloyev
           </Link>
+
+          <p>sayit xato hisoblab qolsa men javob bermayman!</p>
         </div>
       </main>
     </>
