@@ -37,10 +37,10 @@ export default function Home() {
 
           <Link
             className="hover:underline text-sm text-white/50 hover:text-white/100"
-            href="https://t.me/abdulloyevuzb"
+            href="https://t.me/abdulloyev_dev"
             target="_blank"
           >
-            abdulloyev
+            abdulloyev_dev
           </Link>
 
           <p>sayit xato hisoblab qolsa men javob bermayman!</p>
